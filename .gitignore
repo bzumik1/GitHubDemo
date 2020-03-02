@@ -1,2 +1,7 @@
-.idea
-GI.txt
+#IGNORE
+.idea/
+ignored.txt
+
+#DO NOT IGNORE
+!Something.txt
+
