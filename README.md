@@ -9,6 +9,7 @@
 - [x] README.md
 - [ ] Git
 - [ ] GitHub
+- [ ] Branching
 
 ## Toto je jak udelat odkaz
 [GitHub](https://github.com)
@@ -18,3 +19,6 @@
 
 ## Toto je tucne
 **tucne**
+
+## Toto jsou obrazky
+![GitHub Logo](/images/logo.png)
