@@ -9,6 +9,7 @@
 - [x] README.md
 - [ ] Git
 - [ ] GitHub
+- [ ] Branching
 
 ## Toto je jak udelat odkaz
 [GitHub](https://github.com)
