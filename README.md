@@ -11,7 +11,7 @@
 - [ ] GitHub
 
 ## Toto je jak udelat odkaz
-(GitHub)[https://github.com]
+[GitHub](https://github.com)
 
 ## Toto je kurziva
 *kurziva*
