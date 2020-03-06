@@ -7,8 +7,8 @@
 
 ## Ukoly ktere jsou potreba udelat
 - [x] README.md
-- [x] Git
 - [x] GitHub
+- [x] Git
 - [x] Branching
 - [ ] Git GUI
 - [ ] GitKraken
