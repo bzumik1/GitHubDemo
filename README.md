@@ -19,3 +19,6 @@
 
 ## Toto je tucne
 **tucne**
+
+## Merge
+-  toto vyvola konflikt
