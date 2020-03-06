@@ -12,6 +12,7 @@
 - [x] Branching
 - [ ] Git GUI
 - [ ] GitKraken
+- [ ] Git v intellij IDEA
 
 ## Toto je jak udelat odkaz
 [GitHub](https://github.com)
