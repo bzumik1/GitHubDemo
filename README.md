@@ -7,9 +7,10 @@
 
 ## Ukoly ktere jsou potreba udelat
 - [x] README.md
-- [ ] Git
-- [ ] GitHub
-- [ ] Branching
+- [x] Git
+- [x] GitHub
+- [x] Branching
+- [ ] Git GUI
 
 ## Toto je jak udelat odkaz
 [GitHub](https://github.com)
