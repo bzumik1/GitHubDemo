@@ -22,3 +22,10 @@
 
 ## Toto jsou obrazky
 ![GitHub Logo](/images/logo.png)
+
+## Toto jsou tabulky
+
+Nadpis 1 | Nadpis 2
+------------ | -------------
+Obsah prvni bunky | Obsah druhe bunky
+Obsah v prvnim sloupci | Obsah v druhem sloupci
