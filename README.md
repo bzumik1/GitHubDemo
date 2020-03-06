@@ -11,6 +11,7 @@
 - [x] GitHub
 - [x] Branching
 - [ ] Git GUI
+- [ ] GitKraken
 
 ## Toto je jak udelat odkaz
 [GitHub](https://github.com)
